@@ -12,5 +12,6 @@ public class MainActivity extends Activity {
         //Log.i("Hello World", "Hello World");
         //Test
         //B
+        //C
     }
 }
